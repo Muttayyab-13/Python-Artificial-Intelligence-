@@ -6,7 +6,6 @@ df = pd.read_csv('./Data Sets/Netflix_dataset.csv')
 
 print(df.head())
 
-import pandas as pd
 
 
 df.head(10) #1
